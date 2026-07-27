@@ -4,6 +4,5 @@ if user == "hi":
     print("hello")
 elif user == "okay":
     print("what?")
-
 else:
     print("i don't understand")
