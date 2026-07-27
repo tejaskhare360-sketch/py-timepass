@@ -81,7 +81,7 @@ def main():
         elif choice == "4":
             delete_task(tasks)
         elif choice == "5":
-            print("👋 Goodbye!")
+            print("👋Goodbye!")
             break
         else:
             print("⚠️  Please choose 1 to 5.")
